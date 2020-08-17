@@ -1,4 +1,4 @@
-def parot(string = "Squawk!")
+def parrot(string = "Squawk!")
   puts "Pretty bird!"
   "Pretty bird!"
 
