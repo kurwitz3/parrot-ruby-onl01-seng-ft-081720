@@ -1,9 +1,11 @@
 def parrot(string = "Squawk!")
    if string == "Squawk!"
-   puts "Pretty bird!"
-  "Pretty bird!"
-  puts "Squawk!"
+ puts "Squawk!"
   "Squawk!"
+else 
+  puts "Pretty bird!"
+"Pretty bird!"
+end
  
 end
   
